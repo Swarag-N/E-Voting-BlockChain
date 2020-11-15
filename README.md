@@ -5,12 +5,12 @@
 ### Fall Semester 2020
 
 | Course Code |         Course Name         | Slot |
-|:-----------:|:---------------------------:|:----:|
+| :---------: | :-------------------------: | :--: |
 |  `BCI3004`  | Security of E-Based Systems |  F1  |
 
 ### Under Guidance 0f
 
-## Ananda Kumar S Sir (SCOPE) 
+## Ananda Kumar S Sir (SCOPE)
 
 ### Teammates
 
@@ -48,7 +48,7 @@ Postman, VS Code
 ## Setting Up Work Environment
 
 - It is better to use virtual env of python
-  refer from :- ```url https://docs.python.org/3/tutorial/venv.html```
+  refer from :- `url https://docs.python.org/3/tutorial/venv.html`
   in app working directory
 
 ```bash
